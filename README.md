@@ -13,6 +13,7 @@ The Scroll Hacks Project is a mental health app designed to provide support and 
 - JavaScript
 - HTML
 - CSS
+- Figma
 
 ## Features
 
